@@ -15,13 +15,11 @@ Nhóm nhận thấy nhiều vấn đề thực chất có pattern workflow giố
 | Planning & Follow-up | Deadline reminder, action item tracking | Công việc dễ bị quên sau meeting/lab |
 
 3. Shortlist & Scoring
-Candidate	Actor rõ	Workflow rõ	Pain có evidence	Impact đo được	Làm được trong lab	So sánh R/W/A được	Nhóm hiểu domain	Tổng
-Weekly Report Generator	5	5	4	5	5	5	5	34
-Multi-source Search	4	4	4	4	3	4	4	27
-PRD / Assignment Reviewer	4	5	3	3	5	4	4	28
+<img width="831" height="169" alt="image" src="https://github.com/user-attachments/assets/3d8005a0-5901-4bfc-aa37-2018a2b05c5f" />
+
 
 4. Lựa chọn vấn đề
-Nhóm chọn: Project Progress summary.
+Nhóm chọn: Information Aggregation.
 
 Vì sao chọn:
 
