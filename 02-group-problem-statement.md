@@ -1,18 +1,6 @@
 
 1. Tổng hợp các vấn đề
-#	Người đưa ra	Candidate problem	Người gặp vấn đề	Điểm nghẽn	Cảm nhận nhanh
-1	2A202600590 - Nguyễn Văn Quang	Lượng kiến thức nhiều được nén lại trong thời gian ngắn gây khó tiếp cận	Học viên, giảng viên	Kiến thức dài nhưng thời gian ngắn	
-2	2A202600590 - Nguyễn Văn Quang	Số TA hỗ trợ lớp quá ít so với số học viên trong 1 lớp	TA, học viên	Số lượng người ít nhưng vấn đề nhiều	
-3	2A202600590 - Nguyễn Văn Quang	Một số lỗi kỹ thuật trong ứng dụng chung khiến cả TA và học viên đều khó khăn	TA, học viên	Phần mềm không hỗ trợ được workflow	
-4	2A202600857 - Phạm Trần Nguyên Phú	Quên deadline giữa nhiều môn	Học viên		
-5	2A202600857 - Phạm Trần Nguyên Phú	Tìm lại tài liệu/file cũ	Học viên, nghiên cứ sinh, người đi làm		
-6	2A202600857 - Phạm Trần Nguyên Phú	Đọc tài liệu dài để tìm ý chính	Học viên, nghiên cứ sinh, người đi làm		
-7	2A202600693 - Nguyễn Khánh Bằng	Viết status update tuần cho nhóm dự án bằng cách lấy số liệu và note từ Google Docs, Slack, Figma rồi tổng hợp vào Google Slides	Người đi làm		
-8	2A202600693 - Nguyễn Khánh Bằng	Tìm lại quyết định / thông tin cũ trong Discord và Google Drive khi chuẩn bị nộp báo cáo nhóm	Người đi làm		
-9	2A202600693 - Nguyễn Khánh Bằng	Chuẩn bị nộp bài lab khi không rõ các mục cần ghi, so khớp với rubic	Người đi làm, học viên		
-10	2A202600975 - Mã Vĩnh Lộc	QA/QC Chất Lượng OCR Tài Liệu Cũ/Nát			
-11	2A202600975 - Mã Vĩnh Lộc	Đánh Giá Hiệu Suất Và Tính Lương CTV Theo Giờ			
-12	2A202600975 - Mã Vĩnh Lộc	Tự Động Phát Hiện Lỗi Chất Lượng Ảnh Scan Tại Chỗ			
+			
 <img width="1236" height="809" alt="image" src="https://github.com/user-attachments/assets/f88df827-60cd-43b2-b4f7-c340fbef2f46" />
 
 
